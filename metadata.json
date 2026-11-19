@@ -1,0 +1,6 @@
+{
+  "name": "CAMPUS.",
+  "description": "Digital storefront and wallet dashboard with inventory catalog, manual deposits, order tracking, and Telegram account connection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
